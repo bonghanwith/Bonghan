@@ -26,7 +26,7 @@ public class Ex01 {
 		
 		
 		scanner.close();
-		//추가 
+		//추가 //다시 추가 
 	}
 
 }
