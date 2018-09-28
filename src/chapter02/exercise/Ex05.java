@@ -8,6 +8,8 @@ package chapter02.exercise;
  * 결과로 새로운 점을 반환하도록 이 메서드들을 구현하라. 예를 들어 다음 문장은 p를 좌표가 (2,3.5)인 점으로 설정해야 한다. 
  * 
  * Point p = new Point(3,4).translate(1,3).scale(0.5);
+ * 
+ * 7. 연습문제 5번과 6번에서 만든 Point클래스와 두 버전에 javadoc 주석을 추가하라
  *
  * @author bongh
  *

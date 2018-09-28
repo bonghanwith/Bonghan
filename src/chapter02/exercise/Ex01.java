@@ -1,9 +1,6 @@
 package chapter02.exercise;
 
-import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.util.LinkedHashMap;
-import java.util.Map;
 
 /**
  * 1. 달력 출력 프로그램을 수정해서 일요일부터 한주를 시작하게 하라. 또한 끝에 줄 넘김을 한번만 출력하게 만든다.

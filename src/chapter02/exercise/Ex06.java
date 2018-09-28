@@ -2,6 +2,13 @@ package chapter02.exercise;
 
 import chapter02.exercise.Ex05.Point;
 
+/**
+ * 6. 연습문제 5번을 반복하되 이번에는 translate와 scale을 변경자로 만들라.
+ * @author bongh
+ * 
+ * 7. 연습문제 5번과 6번에서 만든 Point클래스와 두 버전에 javadoc 주석을 추가하라
+ */
+
 public class Ex06 {
 	public static class Point extends Object{
 		private double x, y;
